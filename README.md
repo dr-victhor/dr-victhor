@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Victor 👋
 
-<!--
-**dr-victhor/dr-victhor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student from Lima, Peru, currently focused on Quality Assurance, software testing, and test automation.
 
-Here are some ideas to get you started:
+## Current focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Manual testing fundamentals
+- Test case design
+- Bug reporting
+- API testing with Postman
+- Automation basics with Python/Selenium
+- ISTQB Foundation Level preparation
+
+## QA Portfolio Projects
+
+Coming soon:
+
+- Manual testing project
+- Bug report samples
+- Test case documentation
+- API testing collection
+- Web automation project
+
+## Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/victor-pineda-aguayo-b60363165/
+- Email: victor.pinedaguayo@gmail.com
